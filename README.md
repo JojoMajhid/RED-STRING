@@ -9,16 +9,27 @@ Red String also provides a platform where users can express their concerns and r
 **Features:**
 
 Navigation Bar – allows users to easily navigate between different sections of the website.
+
 Home Section – introduces the Red String website and its purpose of promoting transparency and fighting corruption.
+
 About Section – provides information about the website, its mission, and its vision.
+
 RA No. 3019 – gives users information about their rights and the Anti-Graft and Corrupt Practices Act.
+
 Facts and Awareness – presents important information about corruption and its effects on society.
+
 Success Stories – displays images and information about government projects and community activities that were successfully completed.
+
 Contact Form – allows users to send messages, concerns, or reports through the website.
+
 Anonymous Reporting – gives users the option to submit their concerns without providing their name.
+
 Image Upload and Preview – allows users to attach proof or images and preview their selected files before submitting.
+
 Form Validation – checks if the required information is complete before allowing the form submission.
+
 Email Submission – uses Formspree to process and send submitted reports to the designated email address.
+
 Meet Our Team – introduces the people behind the Red String website
 
 **Users**
